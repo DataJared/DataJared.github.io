@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Doordash Data Project](/bank)
+#### [Doordash Data Project](/doordash_project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
 
